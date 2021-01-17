@@ -1,6 +1,6 @@
 # Games
 
-##Froggy Game.
+##Froggy Ball Game.
 This is a simple game I programmed with the Scratch block-based visual programming language.
 The aim of the game is to navigate an avatar, using the direction keys, to get a ball while avoiding four frogs that criss cross the screen.
 The ball disappears once the avatar touches/gets the ball, your score increases by 1, and the ball reappears in a different random location.
