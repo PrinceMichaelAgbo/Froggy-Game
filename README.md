@@ -11,8 +11,8 @@ Background music is included.
 ##Penalty Shootout.
 This is a simple game I programmed with the Scratch block-based visual programming language.
 The aim of the game is to score as many goals as possible in a penalty shootout before 1 minute.
-Pressing the t button aims for the top while pressing the b button aims for the bottom.
-The goalkeeper randomly decided what direction to go to and if that coincides with the direction of the ball, the goalkeeper catches the ball everytime.
-Hence, it is always a 50% chance of scoring.
+Pressing the t button shoots the ball to the top while pressing the b button shoots the ball to the bottom.
+The goalkeeper randomly decides what direction to go to and if that coincides with the direction of the ball, the goalkeeper catches the ball everytime.
+Hence, it is always a 50% chance of scoring a goal.
 When 1 minute is up, the game ends.
 Background music is included.
